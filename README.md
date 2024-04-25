@@ -1,1 +1,5 @@
 # GenAI-App---AI-Code-Reviewer
+The provided script outlines a Streamlit application designed to leverage OpenAI's GPT-3.5 Turbo model for reviewing Python code. Here’s a detailed summary of the application, breaking down its key components and functionality:
+The script effectively creates a user-friendly interface for code review, where users can submit their Python code and receive AI-driven feedback on errors and improvements. It utilizes OpenAI's API to access advanced language models capable of understanding complex requests and generating detailed responses, making it a valuable tool for developers looking to improve their code quality. This integration of advanced AI with an interactive web interface democratizes access to powerful code analysis tools, tailored for Python development.
+![image](https://github.com/anurashmidalai/GenAI-App---AI-Code-Reviewer/assets/125684638/a4d4aa8f-49f0-4091-b897-d847ff822b0d)
+![image](https://github.com/anurashmidalai/GenAI-App---AI-Code-Reviewer/assets/125684638/aac887e3-18f1-4e1e-9e06-02337d690293)
